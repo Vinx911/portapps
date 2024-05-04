@@ -1,14 +1,21 @@
+链接：https://pan.baidu.com/s/12BzZmxTqtlxb59SK4QY3SA?pwd=38gk 
+提取码：38gk
+
 ## Dbeaver Portable
 
-- **24.0.0**
+- **24.0.3**
 
 ## JetBrains Clion Portable
 
-- **2023.2.2**
+- **2024.1.1**
 
 ## JetBrains Idea IU Portable
 
-- **2023.3.4**
+- **2024.1.1**
+
+## JetBrains PyCharm
+
+- **2024.1.1**
 
 ## SQLite Studio Portable
 
@@ -16,8 +23,8 @@
 
 ## STM32CubeMX Portable
 
-- **6.10.0**
+- **6.11.1**
 
 ## VSCode Portable
 
-- **1.84.1**
+- **1.89.0**
